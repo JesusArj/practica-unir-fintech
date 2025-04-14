@@ -1,13 +1,13 @@
-# Repo para EIEC - DevOps - UNIR
+# Repo for EIEC - DevOps - UNIR
 
-Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
+This repository will help us demonstrate the use of Git in the EIEC course and much more.
 
 ---
 
-Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows, necesitarás adaptarlos o ejecutarlos en una máquina virtual Linux.
+The commands in the Makefile will work on Linux and macOS. If you're using Windows, you'll need to adapt them or run them on a Linux virtual machine.
 
-## Ejecución
+## Execution
 
-python3 main.py <filename> <dup>
-  filename: **ruta** al fichero que contiene la lista de palabras, una por línea
-  dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
+python3 main.py <filename> <dup>  
+  filename: **path** to the file containing the list of words, one per line  
+  dup: **yes|no**, yes to remove duplicate words, no to keep the list as is
