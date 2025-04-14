@@ -8,6 +8,6 @@ The commands in the Makefile will work on Linux and macOS. If you're using Windo
 
 ## Execution
 
-python3 main.py <filename> <dup>  
-  filename: **path** to the file containing the list of words, one per line  
+python3 main.py <filename> <dup>
+  filename: **path** to the file containing the list of words, one per line
   dup: **yes|no**, yes to remove duplicate words, no to keep the list as is
